@@ -1,1 +1,1 @@
-open("hive")
+print("hive")
